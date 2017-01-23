@@ -31,13 +31,13 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://www.giphy.com/gifs/26xBG73MEdKcAsoIo' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://media.giphy.com/media/26xBG73MEdKcAsoIo/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [GIPHY CAPTURE]
 
 ## License
 
-    Copyright [Sarah Zhou] [name of copyright owner]
+    Copyright [Sarah Zhou]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
