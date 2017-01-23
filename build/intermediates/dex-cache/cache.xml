@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/sarahz/SimpleTodo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bc6c8ee6e358ed1981a9739a46a019efe2821b92">
+        <dex dex="/Users/sarahz/SimpleTodo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4ec76401df188048fd04b08c898653a4fa741049/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sarahz/SimpleTodo/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/sarahz/SimpleTodo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.0_f70967c88df006b95d9c5eba5a7e4cded75607d1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sarahz/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/sarahz/SimpleTodo/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_ffb07cbc77bcb5884096eea12ea10f0d1d89ae91/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sarahz/SimpleTodo/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/sarahz/SimpleTodo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.0_1f964c4bae7b2f66717bc96c36e832597b3e972a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sarahz/SimpleTodo/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/sarahz/SimpleTodo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.0_663812ee07c21923ed760af72c9163b6ca153e80/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sarahz/SimpleTodo/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/sarahz/SimpleTodo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.0_9c52105321f78bb20b4f3cb9aeca5e73d054a1dc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sarahz/SimpleTodo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/sarahz/SimpleTodo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.0_50fa4b3efe74d43633f5d1222dc72b0e0b66040d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sarahz/SimpleTodo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="22e6a8ed2f2873afdc14db3406e19c887fb9a4ab">
+        <dex dex="/Users/sarahz/SimpleTodo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_963cf27e91b4fabf0892be8ca77ed85c15ea6228/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sarahz/SimpleTodo/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/sarahz/SimpleTodo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.0_a9f843b810d67fd3815e096c8332433c7c89e783/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sarahz/SimpleTodo/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/sarahz/SimpleTodo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.0_bfb77c1dba6f22947172acf859acc36ff76e4987/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sarahz/SimpleTodo/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/sarahz/SimpleTodo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.0_1e3d65b46939a42cba173077f5e0694098528eee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Android Studio 2.2.3/Android Studio.app/Contents/gradle/m2repository/commons-io/commons-io/2.4/commons-io-2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="/Users/sarahz/SimpleTodo/app/build/intermediates/transforms/dex/debug/folders/1000/10/commons-io-2.4_81d2edf009cf8957f04a6419f1024354237ff73e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sarahz/SimpleTodo/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/sarahz/SimpleTodo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.0_410b09bf93c596b3fd1c815c12370b7d69761a56/classes.dex" />
+    </item>
+
+</items>
